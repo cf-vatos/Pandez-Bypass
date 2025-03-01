@@ -1,5 +1,5 @@
-from Helper import logger
-from Helper.utils import Utils
+from Helper         import logger
+from Helper.utils   import Utils
 
 from Helper.captcha import CaptchaSolver, TwoCaptchaSolver
 

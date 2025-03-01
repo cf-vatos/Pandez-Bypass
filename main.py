@@ -1,18 +1,18 @@
-from curl_cffi import requests
-from requestcord import HeaderGenerator
-from requestcord import Session as SessionID
+from curl_cffi                  import requests
+from requestcord                import HeaderGenerator
+from requestcord                import Session as SessionID
 
-from Helper import DiscordConfig, logger
-from Helper.captcha import CaptchaSolver, TwoCaptchaSolver
-from Helper.websocket_manager import WebSocketManager
-from Helper.details import (
+from Helper                     import   DiscordConfig, logger
+from Helper.captcha             import CaptchaSolver, TwoCaptchaSolver
+from Helper.websocket_manager   import WebSocketManager
+from Helper.details             import (
     MessageDetails,
     InvalidMessageLinkError,
     APIRequestError,
     DiscordEntityIDs,
 )
-from Helper.pandez import PandezCaptcha
-from Helper.utils import Utils
+from Helper.pandez              import PandezCaptcha
+from Helper.utils               import Utils
 
 
 class CaptchaDiscordBypass:

@@ -1,10 +1,10 @@
-from typing import Optional, Any, Dict
+from typing     import Optional, Any, Dict
 import websocket
 
 import json
 import time
 
-from Helper import DiscordConfig, logger
+from Helper      import DiscordConfig, logger
 
 from requestcord import HeaderGenerator
 

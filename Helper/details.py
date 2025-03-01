@@ -1,6 +1,6 @@
-from __future__ import annotations
-from typing import Optional, Tuple, Dict, Any, List
-from dataclasses import dataclass
+from __future__     import annotations
+from typing         import Optional, Tuple, Dict, Any, List
+from dataclasses    import dataclass
 
 import re
 import json
