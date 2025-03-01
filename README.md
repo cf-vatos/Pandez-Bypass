@@ -18,9 +18,9 @@
 ## Screenshot
 ![picture](https://www.requestcord.eu/pandez_showcase.png)
 
-## Features
+## Features 
 - **`Bypasses Verification `** - Bypasses Pandez Verification Automatically 
-- **`2captcga Solver`** - Uses 2captcha.com To solve Captchas
+- **`2captcha Solver`** - Uses 2captcha.com To solve Captchas
 - **`Message Link`** - Works With Message Link
 
 ## Updates
