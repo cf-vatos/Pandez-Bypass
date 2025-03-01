@@ -1,0 +1,6 @@
+colorama
+curl_cffi
+pillow
+requestcord
+requests
+websocket_client
