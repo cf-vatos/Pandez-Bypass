@@ -86,7 +86,7 @@ def main() -> None:
     logger.info("Getting Infos..")
     try:
         extractor = MessageDetails(
-            message_link="https://discord.com/channels/1345445721490329722/1345445832391917618/1345445833964785735",
+            message_link="YOUR_MESSAGE_LINK",
             token=random_valid_token,
         )
         details = extractor.entity_ids
