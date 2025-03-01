@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/cf-vatos/Discord-Selfbot">
+  <a href="https://github.com/cf-vatos/Pandez-Bypass">
     <img src="https://www.requestcord.eu/pandez.png" alt="Logo" witdth width="120" height="120">
   </a>
 
